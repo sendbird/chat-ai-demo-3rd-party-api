@@ -1,0 +1,13 @@
+{
+  "id": "3",
+  "status": "preparing",
+  "items": [
+    "phone",
+    "charger"
+  ],
+  "createdDate": "2021-01-01",
+  "estimatedDeliveryDate": "2021-01-03",
+  "order_date": null,
+  "purchasePrice": 100,
+  "customer_name": "John"
+}

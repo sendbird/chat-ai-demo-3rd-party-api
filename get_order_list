@@ -1,0 +1,5 @@
+[
+     {'id': "1", 'status': 'delivered', 'items': ['t-shirt', 'pants']},
+     {'id': "2", 'status': 'delivering', 'items': ['shoes', 'socks']},
+     {'id': "3", 'status': 'preparing', 'items': ['phone', 'charger']},
+]
